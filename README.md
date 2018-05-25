@@ -168,8 +168,8 @@ public class MainActivity extends AppCompatActivity {
 ### 4.0实现效果
 
 <div align="center">
-<img src="E:\Typora文档\Andorid截图\实验5\1.jpg" width="300"/><img src="E:\Typora文档\Andorid截图\实验5\2.jpg" width="300"  />
+<img src="https://github.com/MartinZou0/Android_EXP_5/blob/master/shortcut/1.jpg" width="300"/><img src="https://github.com/MartinZou0/Android_EXP_5/blob/master/shortcut/2.jpg" width="300"  />
 </div>
 <div align="center">
-<img src="E:\Typora文档\Andorid截图\实验5\3.jpg" width="300"/><img src="E:\Typora文档\Andorid截图\实验5\4.jpg" width="300"  />
+<img src="https://github.com/MartinZou0/Android_EXP_5/blob/master/shortcut/3.jpg" width="300"/><img src="https://github.com/MartinZou0/Android_EXP_5/blob/master/shortcut/4.jpg" width="300"  />
 </div>
